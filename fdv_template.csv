@@ -1,0 +1,2 @@
+symbol,project_name,chain,ca,total_supply,dextools_pair_url,init_tx_hash,listing_price_usd,listing_fdv_usd,notes
+EVAA,EVAA Protocol,BSC,0xaa036928c9c0df07d525b55ea8ee690bb5a628c1,50000000,https://www.dextools.io/app/bnb/pair-explorer/0x26deb24a2623cf54452ab5183e2c34551831d54d,0xf83b4c43fa06bd4d8116149a9a02b111589cee6540a242860dc37e85652521dc,2,100000000,example from user
